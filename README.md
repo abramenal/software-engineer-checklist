@@ -37,11 +37,12 @@
 - REST vs SOAP
 - Cross-domain communications. CORS, iframe, origin, headers. JSONP
 - Web security: XSS, XSRF. CSP
-- Authentication strategies: basic, session-based, token-based, mixed, etc
+- Authentication strategies: basic, session-based, token-based, mixed, etc. Token structure
 - Web sockets
 - Server-side rendering. Pros&cons, e.g. influence on SEO results
 - DB: SQL vs NoSQL. Comparison, pros&cons, when to choose the particular one
 - Web storage: cookies, sessionStorage, localStorage
+- HTTP vs HTTPS. HTTP/2
 
 #### Front-end web development knowledge
 
