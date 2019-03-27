@@ -1,6 +1,6 @@
 # software-engineer-checklist
 
-## Senior software engineer
+##
 
 ### Hard skills
 
